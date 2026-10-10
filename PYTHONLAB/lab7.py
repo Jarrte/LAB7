@@ -2,7 +2,7 @@
 def calcular_area_rectangulo(base, altura):
     return base * altura
 
-
+#triangulo
 def calcular_area_triangulo(base, altura):
     return (base * altura) / 2
 
